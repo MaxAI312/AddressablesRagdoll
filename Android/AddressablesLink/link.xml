@@ -1,0 +1,106 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Character" preserve="all" />
+    <type fullname="MechanicsService" preserve="all" />
+    <type fullname="NTC.Global.System.ColliderOperations" preserve="all" />
+    <type fullname="NTC.Global.System.RagdollOperations" preserve="all" />
+    <type fullname="Source.Scripts.Character.FallHandler" preserve="all" />
+    <type fullname="Source.Scripts.Character.HitHandler" preserve="all" />
+    <type fullname="Source.Scripts.Character.HitProvider" preserve="all" />
+    <type fullname="Source.Scripts.Character.PuppetMasterHandler" preserve="all" />
+    <type fullname="Source.Scripts.Character.RayEffectHandler" preserve="all" />
+    <type fullname="Source.Scripts.Objects.ShootingThings.Crossbow" preserve="all" />
+    <type fullname="Source.Scripts.Objects.ShootingThings.Gun" preserve="all" />
+    <type fullname="Source.Scripts.Objects.ShootingThings.Projectiles.Bullet" preserve="all" />
+    <type fullname="Source.Scripts.Objects.Target.Target" preserve="all" />
+    <type fullname="Source.Scripts.Objects.Tools.Glove.BoxingGlove" preserve="all" />
+    <type fullname="Source.Scripts.Objects.Tools.Glove.Game.Tools.HittingPart" preserve="all" />
+    <type fullname="Source.Scripts.Objects.Tools.PhysicsGun.PhysicGun" preserve="all" />
+    <type fullname="Source.Scripts.Objects.Tools.RayGuns.RayGun" preserve="all" />
+    <type fullname="Source.Scripts.Objects.Tools.RayGuns.RayGunEffect" preserve="all" />
+    <type fullname="Source.Scripts.UI.CameraShaker" preserve="all" />
+    <type fullname="ThreatSource" preserve="all" />
+    <type fullname="UnitAnimation" preserve="all" />
+    <type fullname="UnitAnimator" preserve="all" />
+    <type fullname="UnitDodge" preserve="all" />
+    <type fullname="UnitElevator" preserve="all" />
+    <type fullname="UnitJumpBack" preserve="all" />
+    <type fullname="UnitReaction" preserve="all" />
+    <type fullname="UnitRunner" preserve="all" />
+    <type fullname="UnitShifter" preserve="all" />
+    <type fullname="UnitTilting" preserve="all" />
+    <type fullname="MechanicsPair" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="RootMotion.Comments" preserve="all" />
+    <type fullname="RootMotion.Dynamics.PuppetMaster" preserve="all" />
+    <type fullname="RootMotion.Dynamics.Muscle" preserve="nothing" serialized="true" />
+    <type fullname="RootMotion.Dynamics.Muscle/Group" preserve="nothing" serialized="true" />
+    <type fullname="RootMotion.Dynamics.Muscle/InternalCollisionIgnoreSettings" preserve="nothing" serialized="true" />
+    <type fullname="RootMotion.Dynamics.Muscle/Props" preserve="nothing" serialized="true" />
+    <type fullname="RootMotion.Dynamics.PuppetMaster/Mode" preserve="nothing" serialized="true" />
+    <type fullname="RootMotion.Dynamics.PuppetMaster/State" preserve="nothing" serialized="true" />
+    <type fullname="RootMotion.Dynamics.PuppetMaster/StateSettings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.AI.Navigation, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Unity.AI.Navigation.NavMeshSurface" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AI.NavMeshAgent" preserve="all" />
+    <type fullname="UnityEngine.AI.NavMeshData" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.CharacterJoint" preserve="all" />
+    <type fullname="UnityEngine.ConfigurableJoint" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+  </assembly>
+</linker>
